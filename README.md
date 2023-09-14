@@ -11,4 +11,4 @@ I am a machine learning specialist with experience the field of finance. Most of
 * [CountingWithTransformers](https://github.com/SimonOuellette35/CountingWithTransformers): these scripts are the companion code to my paper "Counting and Algorithmic Generalization with Transformers" which I recently submitted. Review pending.
 * [ARC_gym](https://github.com/SimonOuellette35/ARC_gym): a framework in development to help generate training data for the Abstraction & Reasoning Corpus challenge. Currently only focuses on cardinality concepts.
 * [Microstructure](https://github.com/SimonOuellette35/Microstructure): a framework in development to help generate simulated financial data, to evaluate algorithms & approaches to ML trading.
-* [RLNonStationary](https://github.com/SimonOuellette35/RLNonStationary): companion code for a talk about using simulated data to train a reinforcement learning algorithm when non-stationarity is a problem.
+* [RLNonStationary](https://github.com/SimonOuellette35/RLNonStationary): companion code for a talk I gave at Quantopian about using simulated data to train a reinforcement learning algorithm when non-stationarity is a problem.
