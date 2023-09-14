@@ -16,6 +16,10 @@ I am a machine learning specialist with experience the field of finance. Most of
 </table>
 </div>
 
+<p align="center">
+<img src="https://github-readme-stats-two-nu-79.vercel.app/api?username=SimonOuellette35&show_icons=true&bg_color=00000002">
+</p>
+
 ### Here is my list of public projects:
 * [CountingWithTransformers](https://github.com/SimonOuellette35/CountingWithTransformers): these scripts are the companion code to my paper "Counting and Algorithmic Generalization with Transformers" which I recently submitted. Review pending.
 * [ARC_gym](https://github.com/SimonOuellette35/ARC_gym): a framework in development to help generate training data for the Abstraction & Reasoning Corpus challenge. Currently only focuses on cardinality concepts.
