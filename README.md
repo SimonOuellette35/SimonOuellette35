@@ -7,7 +7,14 @@
 
 I am a machine learning specialist with experience the field of finance. Most of my contributions are unfortunately private, but I do have some "extra-curricular" projects for which I created public repositories. These repos essentially revolve around either finance or the "Abstraction & Reasoning Corpus" challenge.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SimonOuellette35)](https://git.io/streak-stats)
+<div align="center">  
+<table style="margin: 0 auto; border-style: none; width:100%">
+  <tr>
+    <td><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SimonOuellette35&hide_border=true"></td>
+       <td><img src="https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=SimonOuellette35&layout=compact&theme=light&hide=jupyter%20notebook"></td>
+  </tr> 
+</table>
+</div>
 
 ### Here is my list of public projects:
 * [CountingWithTransformers](https://github.com/SimonOuellette35/CountingWithTransformers): these scripts are the companion code to my paper "Counting and Algorithmic Generalization with Transformers" which I recently submitted. Review pending.
