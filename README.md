@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**SimonOuellette35/SimonOuellette35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Simon Ouellette</h1>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Senior Machine Learning Specialist with 8+ years of professional experience.</h3>
+
+I am a machine learning specialist with experience the field of finance. Most of my contributions are unfortunately private, but I do have some "extra-curricular" projects for which I created public repositories. These repos essentially revolve around either finance or the "Abstraction & Reasoning Corpus" challenge.
+
+### Here is my list of public projects:
+* [CountingWithTransformers](https://github.com/SimonOuellette35/CountingWithTransformers): these scripts are the companion code to my paper "Counting and Algorithmic Generalization with Transformers" which I recently submitted. Review pending.
+* [ARC_gym](https://github.com/SimonOuellette35/ARC_gym): a framework in development to help generate training data for the Abstraction & Reasoning Corpus challenge. Currently only focuses on cardinality concepts.
+* [Microstructure](https://github.com/SimonOuellette35/Microstructure): a framework in development to help generate simulated financial data, to evaluate algorithms & approaches to ML trading.
+* [RLNonStationary](https://github.com/SimonOuellette35/RLNonStationary): companion code for a talk about using simulated data to train a reinforcement learning algorithm when non-stationarity is a problem.
