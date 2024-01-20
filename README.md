@@ -5,7 +5,7 @@
 
 <h3 align="center">Senior Machine Learning Specialist with 8+ years of professional experience.</h3>
 
-I am a machine learning specialist with 8+ years of professional experience. Most of my contributions are unfortunately private, but I do have some "extra-curricular" projects for which I created public repositories. These repos essentially revolve around either finance or the "Abstraction & Reasoning Corpus" challenge.
+Most of my contributions are unfortunately private, but I do have some "extra-curricular" projects for which I created public repositories. These repos essentially revolve around either finance or the "Abstraction & Reasoning Corpus" challenge.
 
 <div align="center">  
 <table style="margin: 0 auto; border-style: none; width:100%">
