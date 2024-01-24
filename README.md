@@ -23,5 +23,6 @@ Most of my contributions are unfortunately private, but I do have some "extra-cu
 ### Here is my list of public projects:
 * [CountingWithTransformers](https://github.com/SimonOuellette35/CountingWithTransformers): these scripts are the companion code to my paper "Counting and Algorithmic Generalization with Transformers".
 * [ARC_gym](https://github.com/SimonOuellette35/ARC_gym): a framework in development to help generate training data for the Abstraction & Reasoning Corpus challenge.
+* [MLC-ARC_gym](https://github.com/SimonOuellette35/MLC-ARC_gym): an experiment that applies the MLC method (Lake & Baroni (2023)), a meta-learning Transformer, on the ARC gym.
 * [Microstructure](https://github.com/SimonOuellette35/Microstructure): a framework in development to help generate simulated financial data, to evaluate algorithms & approaches to ML trading.
 * [RLNonStationary](https://github.com/SimonOuellette35/RLNonStationary): companion code for a talk I gave at Quantopian about using simulated data to train a reinforcement learning algorithm when non-stationarity is a problem.
