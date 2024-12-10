@@ -3,7 +3,7 @@
 
 </p>
 
-<h3 align="center">Senior Machine Learning Specialist with 8+ years of professional experience.</h3>
+<h3 align="center">Senior Machine Learning Specialist with 9+ years of professional experience.</h3>
 
 Most of my contributions are unfortunately private, but I do have some "extra-curricular" projects for which I created public repositories. These repos essentially revolve around either finance or the "Abstraction & Reasoning Corpus" challenge.
 
